@@ -38,7 +38,7 @@ Use it as you want
 For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
  
 ## Contact Me
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/oguzhan1881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oguzhan1881" height="30" width="40" /></a>
 <a href="https://dev.to/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oguzhan18" height="30" width="40" /></a>
 <a href="https://twitter.com/oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhancart" height="30" width="40" /></a>
